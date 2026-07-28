@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Trenlume</title>
+        <item>
+            <title>1.1.1</title>
+            <pubDate>Tue, 28 Jul 2026 21:14:52 +0000</pubDate>
+            <link>https://github.com/DrRoglaa/Trenlume-releases/releases/tag/v1.1.1-32</link>
+            <sparkle:version>32</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Trenlume 1.1.1 (32)
+
+Private beta update.
+
+## Changes
+- Merge pull request #1 from DrRoglaa/develop
+- correction
+]]></description>
+            <enclosure url="https://github.com/DrRoglaa/Trenlume-releases/releases/download/v1.1.1-32/Trenlume-1.1.1-32.dmg" length="7619520" type="application/octet-stream" sparkle:edSignature="MBmbWIk8Mub8nz2zSqRddmqsrgOhuaPhGVcy8s5zUx2oT4+BtvxvWu7UZU1g2myXtjE5H+Vwinfe9RNEcU6mDQ=="/>
+        </item>
+    </channel>
+</rss>
