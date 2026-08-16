@@ -4,23 +4,24 @@
         <title>Trenlume</title>
         <item>
             <title>1.1.1</title>
-            <pubDate>Tue, 11 Aug 2026 16:07:25 +0000</pubDate>
-            <link>https://github.com/DrRoglaa/Trenlume-releases/releases/tag/v1.1.1-39</link>
-            <sparkle:version>39</sparkle:version>
+            <pubDate>Sun, 16 Aug 2026 12:00:21 +0000</pubDate>
+            <link>https://github.com/DrRoglaa/Trenlume-releases/releases/tag/v1.1.1-41</link>
+            <sparkle:version>41</sparkle:version>
             <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Trenlume 1.1.1 (39)
+            <description sparkle:format="markdown"><![CDATA[# Trenlume 1.1.1 (41)
 
 Private beta update.
 
 ## Changes
-- Merge pull request #12 from DrRoglaa/develop
-- Update UserInterfaceState.xcuserstate
-- Update UserInterfaceState.xcuserstate
+- Merge pull request #20 from DrRoglaa/develop
+- Merge branch 'develop' of https://github.com/DrRoglaa/Trenlume into develop
 - update
+- Bump build to 41 across all targets/configs
+- Bump build to 41 across all targets/configs
 ]]></description>
-            <enclosure url="https://github.com/DrRoglaa/Trenlume-releases/releases/download/v1.1.1-39/Trenlume-1.1.1-39.dmg" length="11319221" type="application/octet-stream" sparkle:edSignature="fVDHAdFDB7E1ZPkfuafEap+7lfCkv6CWVpB9WSqY7kEl3b0WLhy0/tDctXU+rCOPsOMoQwALeRXy1993TR4eCA=="/>
+            <enclosure url="https://github.com/DrRoglaa/Trenlume-releases/releases/download/v1.1.1-41/Trenlume-1.1.1-41.dmg" length="12312301" type="application/octet-stream" sparkle:edSignature="T3umgxHmpSJFmWV/NbsXMNwyLEavzaHyAtn+vQn2QtL3JNiqrEyRYiYrzC744yj+qGizw8+QQekLambOBXdjDw=="/>
         </item>
     </channel>
 </rss>
